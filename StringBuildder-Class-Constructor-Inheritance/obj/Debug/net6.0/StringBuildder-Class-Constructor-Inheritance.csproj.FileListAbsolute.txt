@@ -1,0 +1,15 @@
+/Users/limaaliyeva/Desktop/pb202/StringBuildder-Class-Constructor-Inheritance/StringBuildder-Class-Constructor-Inheritance/bin/Debug/net6.0/StringBuildder-Class-Constructor-Inheritance
+/Users/limaaliyeva/Desktop/pb202/StringBuildder-Class-Constructor-Inheritance/StringBuildder-Class-Constructor-Inheritance/bin/Debug/net6.0/StringBuildder-Class-Constructor-Inheritance.deps.json
+/Users/limaaliyeva/Desktop/pb202/StringBuildder-Class-Constructor-Inheritance/StringBuildder-Class-Constructor-Inheritance/bin/Debug/net6.0/StringBuildder-Class-Constructor-Inheritance.runtimeconfig.json
+/Users/limaaliyeva/Desktop/pb202/StringBuildder-Class-Constructor-Inheritance/StringBuildder-Class-Constructor-Inheritance/bin/Debug/net6.0/StringBuildder-Class-Constructor-Inheritance.dll
+/Users/limaaliyeva/Desktop/pb202/StringBuildder-Class-Constructor-Inheritance/StringBuildder-Class-Constructor-Inheritance/bin/Debug/net6.0/StringBuildder-Class-Constructor-Inheritance.pdb
+/Users/limaaliyeva/Desktop/pb202/StringBuildder-Class-Constructor-Inheritance/StringBuildder-Class-Constructor-Inheritance/obj/Debug/net6.0/StringBuildder-Class-Constructor-Inheritance.csproj.AssemblyReference.cache
+/Users/limaaliyeva/Desktop/pb202/StringBuildder-Class-Constructor-Inheritance/StringBuildder-Class-Constructor-Inheritance/obj/Debug/net6.0/StringBuildder-Class-Constructor-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/limaaliyeva/Desktop/pb202/StringBuildder-Class-Constructor-Inheritance/StringBuildder-Class-Constructor-Inheritance/obj/Debug/net6.0/StringBuildder-Class-Constructor-Inheritance.AssemblyInfoInputs.cache
+/Users/limaaliyeva/Desktop/pb202/StringBuildder-Class-Constructor-Inheritance/StringBuildder-Class-Constructor-Inheritance/obj/Debug/net6.0/StringBuildder-Class-Constructor-Inheritance.AssemblyInfo.cs
+/Users/limaaliyeva/Desktop/pb202/StringBuildder-Class-Constructor-Inheritance/StringBuildder-Class-Constructor-Inheritance/obj/Debug/net6.0/StringBuildder-Class-Constructor-Inheritance.csproj.CoreCompileInputs.cache
+/Users/limaaliyeva/Desktop/pb202/StringBuildder-Class-Constructor-Inheritance/StringBuildder-Class-Constructor-Inheritance/obj/Debug/net6.0/StringBuildder-Class-Constructor-Inheritance.dll
+/Users/limaaliyeva/Desktop/pb202/StringBuildder-Class-Constructor-Inheritance/StringBuildder-Class-Constructor-Inheritance/obj/Debug/net6.0/refint/StringBuildder-Class-Constructor-Inheritance.dll
+/Users/limaaliyeva/Desktop/pb202/StringBuildder-Class-Constructor-Inheritance/StringBuildder-Class-Constructor-Inheritance/obj/Debug/net6.0/StringBuildder-Class-Constructor-Inheritance.pdb
+/Users/limaaliyeva/Desktop/pb202/StringBuildder-Class-Constructor-Inheritance/StringBuildder-Class-Constructor-Inheritance/obj/Debug/net6.0/StringBuildder-Class-Constructor-Inheritance.genruntimeconfig.cache
+/Users/limaaliyeva/Desktop/pb202/StringBuildder-Class-Constructor-Inheritance/StringBuildder-Class-Constructor-Inheritance/obj/Debug/net6.0/ref/StringBuildder-Class-Constructor-Inheritance.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QMJIF0Xot/+bn0qS2urPY2StWofhCDP/YnsIJ0rHypHkRWeOajQ73fyN6Ok83ghHZq4+Tcb3wt9mkgmGQg3X2A==",
+  "success": true,
+  "projectFilePath": "/Users/limaaliyeva/Desktop/pb202/StringBuildder-Class-Constructor-Inheritance/StringBuildder-Class-Constructor-Inheritance/StringBuildder-Class-Constructor-Inheritance.csproj",
+  "expectedPackageFiles": [
+    "/Users/limaaliyeva/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/limaaliyeva/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/limaaliyeva/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
